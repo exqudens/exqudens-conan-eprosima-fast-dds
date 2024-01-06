@@ -1,0 +1,12 @@
+# Directories
+.idea/
+.vs/
+.vscode/
+build/
+tmp/
+
+# Files
+*.iml
+*.iws
+*.ipr
+*.ids
